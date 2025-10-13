@@ -17,11 +17,4 @@ Built using **Python**, **OpenAI’s API**, **Gradio**, and standard image proce
 - **Gradio** (for the web interface)
 - **Pillow / Image libraries**
 
----
 
-## 🛠️ Installation
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/<your-username>/CaptionCrafter.git
-   cd CaptionCrafter
